@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a53e2ca7-1c7d-481e-b89e-5d803198beef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZY6M9j8Tb4Loov7L33niWtXcGD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/BrowserDriver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Me\IdeaProjects\POM_NopCom\src\test\Resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuite.unregisteredUserShouldNOTBeAbleReferAFriend">
+    <configuration name="TestSuite.guestUserShouldBeAbleToComment" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM_NopCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MSInnovations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MSInnovations" />
+      <option name="MAIN_CLASS_NAME" value="MSInnovations.TestSuite" />
+      <option name="METHOD_NAME" value="guestUserShouldBeAbleToComment" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.guestUserShouldCheckoutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM_NopCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MSInnovations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MSInnovations" />
+      <option name="MAIN_CLASS_NAME" value="MSInnovations.TestSuite" />
+      <option name="METHOD_NAME" value="guestUserShouldCheckoutSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.unregisteredUserShouldNOTBeAbleReferAFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM_NopCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MSInnovations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="MSInnovations" />
+      <option name="MAIN_CLASS_NAME" value="MSInnovations.TestSuite" />
+      <option name="METHOD_NAME" value="unregisteredUserShouldNOTBeAbleReferAFriend" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=edge -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.userShouldBeAbleToChangeCurrency" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM_NopCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MSInnovations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MSInnovations" />
+      <option name="MAIN_CLASS_NAME" value="MSInnovations.TestSuite" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToChangeCurrency" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.verifyAddToCartButtonForAllFeaturedProducts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM_NopCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MSInnovations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MSInnovations" />
+      <option name="MAIN_CLASS_NAME" value="MSInnovations.TestSuite" />
+      <option name="METHOD_NAME" value="verifyAddToCartButtonForAllFeaturedProducts" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestSuite.guestUserShouldBeAbleToComment" />
+      <item itemvalue="TestNG.TestSuite.guestUserShouldCheckoutSuccessfully" />
+      <item itemvalue="TestNG.TestSuite.unregisteredUserShouldNOTBeAbleReferAFriend" />
+      <item itemvalue="TestNG.TestSuite.userShouldBeAbleToChangeCurrency" />
+      <item itemvalue="TestNG.TestSuite.verifyAddToCartButtonForAllFeaturedProducts" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuite.unregisteredUserShouldNOTBeAbleReferAFriend" />
+        <item itemvalue="TestNG.TestSuite.verifyAddToCartButtonForAllFeaturedProducts" />
+        <item itemvalue="TestNG.TestSuite.userShouldBeAbleToChangeCurrency" />
+        <item itemvalue="TestNG.TestSuite.guestUserShouldBeAbleToComment" />
+        <item itemvalue="TestNG.TestSuite.guestUserShouldCheckoutSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a53e2ca7-1c7d-481e-b89e-5d803198beef" name="Default Changelist" comment="" />
+      <created>1585003630656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585003630656</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585064923740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585064923740" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585012382258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1585012382258" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585077267146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585077267146" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585077267146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585077267146" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585077267146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585077267146" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585077267146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585077267146" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1585058937367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585058937367" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1585003980613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585003980613" />
+  </component>
+</project>
